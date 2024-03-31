@@ -11,6 +11,7 @@ The network weights are in the file "fresunet3_final.pth.tar" and the network ar
 
 Here is the filepath structure of the dataset needed to run notebook correctly:
 
+````
 Onera
 ├── Images
 │   ├── abudhabi
