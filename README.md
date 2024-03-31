@@ -12,16 +12,13 @@ The network weights are in the file "fresunet3_final.pth.tar" and the network ar
 Here is the filepath structure of the dataset needed to run notebook correctly:
 
 ````
-Onera
-├── Images
-│   ├── abudhabi
-│   │   ├── imgs_1
-│   │   ├── imgs_1_rect
-│   │   ├── imgs_2
-│   │   ├── imgs_2_rect
-│   │   └── pair
-│   ├── aguasclaras
-│   │   ...
-│   └── ...
-├── Test
-└── Train
+OSCD
+├── abudhabi
+│   ├── cm
+│   ├── imgs_1
+│   ├── imgs_1_rect
+|   ├── imgs_2
+|   ├── imgs_2_rect
+|   └── pair
+├── aguasclaras
+    |-- ...
